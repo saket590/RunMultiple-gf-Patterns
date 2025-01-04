@@ -32,19 +32,18 @@ done
 ```
 
 **Example Outputs:**
-If successful:
+If successful:\
 Files like gfAllin1gf.txt, gfxss.txt, etc., will be created with the results.
 Console will display: Successfully processed Allin1gf.
 
-If an error occurs:
+If an error occurs:\
 An entry like Error processing Allin1gf. Skipping... will be added to error.log.
 The script will move to the next pattern without interruption.
 
 
 Ensure the required JSON patterns are present under the ~/.gf directory. These can be obtained from:
 
-https://github.com/emadshanab/Gf-Patterns-Collection  (COntains various links for patterns)
-https://github.com/coffinxp/gFpattren  
- 
+https://github.com/emadshanab/Gf-Patterns-Collection  (Contains various links for patterns)\
+https://github.com/coffinxp/gFpattren  \
 
 A big thanks to these hackers for providing these useful patterns.
