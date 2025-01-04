@@ -34,7 +34,7 @@ done
 
 ```
 
-**Example Outputs:**
+**Example Outputs:**\
 If successful:\
 Files like gfAllin1gf.txt, gfxss.txt, etc., will be created with the results.
 Console will display: Successfully processed Allin1gf.
