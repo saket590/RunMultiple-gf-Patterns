@@ -1,5 +1,8 @@
 ### RunMultiple-gf-Patterns
-One liner command to run the gf patterns. gf is a wonderful tool developed by the famous hacker Tomnomnom (Ref :https://github.com/tomnomnom/gf)
+One liner command to run the gf patterns. \
+gf is a wonderful tool developed by the famous hacker Tomnomnom (Ref :https://github.com/tomnomnom/gf)\
+
+
 Most of the time, while using gf tool, people generally use single commands such as 
 `cat urls.txt | gf xss`
 
@@ -46,4 +49,4 @@ Ensure the required JSON patterns are present under the ~/.gf directory. These c
 https://github.com/emadshanab/Gf-Patterns-Collection  (Contains various links for patterns)\
 https://github.com/coffinxp/gFpattren  \
 
-A big thanks to these hackers for providing these useful patterns.
+A big thanks to Tomnomnom and above hackers for providing these useful patterns.
