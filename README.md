@@ -6,7 +6,7 @@ gf is a wonderful tool developed by the famous hacker Tomnomnom (Ref :https://gi
 Most of the time, while using gf tool, people generally use single commands such as \
 `cat urls.txt | gf xss`
 
-or\
+or
 
 `cat urls.txt | gf sqli`  and so on..
 
