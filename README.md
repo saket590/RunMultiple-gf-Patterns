@@ -43,7 +43,8 @@ The script will move to the next pattern without interruption.
 
 Ensure the required JSON patterns are present under the ~/.gf directory. These can be obtained from:
 
+https://github.com/emadshanab/Gf-Patterns-Collection  (COntains various links for patterns)
 https://github.com/coffinxp/gFpattren  
-https://github.com/1ndianl33t/Gf-Patterns  
+ 
 
 A big thanks to these hackers for providing these useful patterns.
